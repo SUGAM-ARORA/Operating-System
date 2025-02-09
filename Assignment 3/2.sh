@@ -3,4 +3,4 @@
 # Purpose: Display disk usage of the home directory
 
 echo "Disk usage of the home directory:"
-du -h --max-depth=1 ~ | sort -hr
+du -sh $HOME
