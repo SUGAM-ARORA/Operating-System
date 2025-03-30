@@ -2,7 +2,7 @@
 
 # ================================
 # Q1: Producer-Consumer Simulation
-# Author: <Your Name>
+# Author: Sugam Arora
 # Description: Simulates a queue with two threads using Bash.
 # =================================
 
