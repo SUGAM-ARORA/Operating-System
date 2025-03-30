@@ -1,6 +1,6 @@
 # ================================
 # Q1: Producer-Consumer Queue Simulation
-# Author: <Your Name>
+# Author: Sugam Arora
 # Description: Creates a queue with two threads — one to enqueue, one to dequeue.
 # =================================
 
